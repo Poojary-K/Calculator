@@ -1,0 +1,13 @@
+.body{
+    height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+.content{
+     background-color: #12091f;
+    height: 99vh;
+    width: 95vw;
+    border: 2px solid wheat;
+    border-radius: 13px;
+}
