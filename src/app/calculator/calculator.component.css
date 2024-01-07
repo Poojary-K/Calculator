@@ -2,6 +2,7 @@
     height: 100vh;
     background: rgb(0, 0, 0);
     justify-content: center;
+    font-family: Arial, sans-serif;
 }
 
 /* .three-dots{
@@ -31,7 +32,7 @@
     width: 95%;
     height: 55px;
     position: relative;
-    padding: 120px 10px 10px 10px;
+    padding: 29px 10px 10px 10px;
     left: 5px;
     right: 5px;
     color: white;
@@ -41,21 +42,21 @@
     height: 5px;
     width: 20px;
     background-color: white;
-    margin: 15px 0 0 48%;
+    margin: 14px 0 0 48%;
     border-radius: 6px;
 }
 .grid-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 10px;
-    padding: 20px;
+    grid-gap: 7px;
+    padding: 3px;
   }
   
   .grid-item {
     background-color: #0a091e;
     color: white;
-    padding: 0px;
+    padding: 7px;
     text-align: center;
-    font-size: 46px;
+    font-size: 42px;
     border-radius: 29px;
   }
